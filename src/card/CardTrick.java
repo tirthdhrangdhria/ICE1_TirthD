@@ -3,7 +3,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 package card;
-
+//Tirth Dhrangdhria
+//991728728
 import java.util.Random;
 import java.util.Scanner;
 
