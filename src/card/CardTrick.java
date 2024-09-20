@@ -77,4 +77,3 @@ public class CardTrick {
         
         scanner.close();
     }
-}
